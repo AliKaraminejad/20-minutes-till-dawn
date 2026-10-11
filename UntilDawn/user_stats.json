@@ -1,0 +1,42 @@
+[
+  {
+    "username": "Ali",
+    "kills": 0,
+    "score": 20,
+    "survivalTime": 20,
+    "password": "Password@1",
+    "avatarPath": "T_Raven_Portrait.png",
+  },
+  {
+    "username": "Ali1",
+    "kills": 0,
+    "score": 126,
+    "survivalTime": 126,
+    "password": "Password@1",
+    "avatarPath": "T_Dasher_Portrait.png",
+  },
+  {
+    "username": "Ali2",
+    "kills": 0,
+    "score": 0,
+    "survivalTime": 0,
+    "password": "Password@1",
+    "avatarPath": "T_Hastur_Portrait.png",
+  },
+  {
+    "username": "Ali3",
+    "kills": 0,
+    "score": 0,
+    "survivalTime": 0,
+    "password": "Password@1",
+    "avatarPath": "T_Dasher_Portrait.png",
+  },
+  {
+    "username": "Ali5",
+    "kills": 0,
+    "score": 1581,
+    "survivalTime": 93,
+    "password": "Password@1",
+    "avatarPath": "T_Hastur_Portrait.png",
+  }
+]
